@@ -1,2 +1,2 @@
 # DateConvert
-simple date input to week and month output
+simple date input and month output
