@@ -27,3 +27,34 @@ elif(month==5):#may
     if(date<=31):
         print("May/"+str(date)+"/"+str(year))
     else:print("Wrong date input!!!")
+elif(month==6):#june
+    if(date<=30):
+        print("June/"+str(date)+"/"+str(year))
+    else:print("Wrong date input!!!")
+elif(month==7):#july
+    if(date<=31):
+        print("July/"+str(date)+"/"+str(year))
+    else:print("Wrong date input!!!")
+elif(month==8):#august
+    if(date<=31):
+        print("August/"+str(date)+"/"+str(year))
+    else:print("Wrong date input!!!")
+elif(month==9):#september
+    if(date<=30):
+        print("September/"+str(date)+"/"+str(year))
+    else:print("Wrong date input!!!")
+elif(month==10):#october
+    if(date<=31):
+        print("October/"+str(date)+"/"+str(year))
+    else:print("Wrong date input!!!")
+elif(month==11):#november
+    if(date<=30):
+        print("November/"+str(date)+"/"+str(year))
+    else:print("Wrong date input!!!")
+elif(month==12):#december
+    if(date<=31):
+        print("December/"+str(date)+"/"+str(year))
+    else:print("Wrong date input!!!")
+
+
+
